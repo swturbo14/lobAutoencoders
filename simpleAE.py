@@ -9,6 +9,7 @@ import torch.optim as optim
 What to do next:
 1. Add quantile variable to position
 2. Standardization
+3. Make network depths configurable
 '''
 
 ## Data Preparation
